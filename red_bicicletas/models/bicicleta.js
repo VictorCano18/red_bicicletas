@@ -31,8 +31,8 @@ Bicicleta.removeById = function(aBiciId) {
     }
 }
 
-var a = new Bicicleta(1, 'rojo', 'urbana', [-34.60, -58.38]);
-var b = new Bicicleta(2, 'blanca', 'urbana', [-37.60, -18.38]);
+var a = new Bicicleta(1, 'rojo', 'urbana', [19.260225, -99.632754]);
+var b = new Bicicleta(2, 'blanca', 'urbana', [19.260225, -98.632754]);
 
 Bicicleta.add(a);
 Bicicleta.add(b);
